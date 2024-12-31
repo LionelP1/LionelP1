@@ -2,10 +2,8 @@
 Hi, I'm Lionel! I'm a second-year student at the University of Toronto, aspiring to become a Full-Stack Developer. I'm passionate about using technology to make a positive impact on the world, and I'm currently honing my skills in JavaScript, React, Node.js, Express, and MongoDB.  <br>Feel free to reach out to me at [lionel.p.career@gmail.com](mailto:lionel.p.career@gmail.com)!
 
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/usernameHERE)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lionel.p.career@gmail.com)  [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=github&logoColor=white&style=for-the-badge)](https://your-website-link.com)
-[![Website](https://img.shields.io/badge/Website-%23333.svg?logo=github&logoColor=white&style=for-the-badge)](https://your-website-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/usernameHERE)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lionel.p.career@gmail.com)  [![Website](https://img.shields.io/badge/Website-%23333.svg?logo=github&logoColor=white&style=for-the-badge)](https://your-website-link.com)
 
 
 # 💻 Tech Stack:
