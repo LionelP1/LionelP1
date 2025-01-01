@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lionel!
 Hi, I'm Lionel! I'm a second-year student at the University of Toronto, aspiring to become a Full-Stack Developer. I'm passionate about using technology to make a positive impact on the world, and I'm currently honing my skills in JavaScript, React, Node.js, Express, and MongoDB.
-- Feel free to reach out to me at [lionel.p.career@gmail.com](mailto:lionel.p.career@gmail.com)!
+- Feel free to reach out to me at [lionel.p1903@gmail.com](mailto:lionel.p1903@gmail.com)!
 
 
 ## 🌐 Socials:
